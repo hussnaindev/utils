@@ -1,2 +1,2 @@
 # utils
-Repo cotaining basic utility functions in used in daily life workflow
+Repo cotaining basic utility functions used in daily life workflow
